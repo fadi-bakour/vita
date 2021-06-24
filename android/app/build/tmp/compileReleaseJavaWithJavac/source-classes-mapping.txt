@@ -1,0 +1,9 @@
+com/vita/MainApplication.java
+ com.vita.MainApplication
+ com.vita.MainApplication$1
+com/vita/BuildConfig.java
+ com.vita.BuildConfig
+com/vita/MainActivity.java
+ com.vita.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
